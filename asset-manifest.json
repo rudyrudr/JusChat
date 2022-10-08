@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JusChat/static/css/main.a240c550.css",
+    "main.js": "/JusChat/static/js/main.462ed37f.js",
+    "index.html": "/JusChat/index.html",
+    "main.a240c550.css.map": "/JusChat/static/css/main.a240c550.css.map",
+    "main.462ed37f.js.map": "/JusChat/static/js/main.462ed37f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.462ed37f.js"
+  ]
+}
